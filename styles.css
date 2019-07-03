@@ -29,8 +29,6 @@ header {
     padding: 40px; 
     background-color: gray; 
 } 
-/* not working below */ 
-
 #advanced-selectors li:nth-child(odd) { 
     background-color: green; 
 }
